@@ -1,0 +1,16 @@
+[
+  {
+    "title": "En çok ne oynarsın?",
+    "choices": [
+      "Rekabetçi",
+      "Rahat"
+    ]
+  },
+  {
+    "title": "Hangi saatlerde oynarsın?",
+    "choices": [
+      "Gündüz",
+      "Akşam"
+    ]
+  }
+]
