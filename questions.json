@@ -4,7 +4,12 @@
     "choices": [
       "Tabi ki!",
       "Kesinlikle öyle!"
-    ]
+    ],
+    "sound": {
+      "file": "37e3b29d2fd21db8dac2bfdfa3a16efe5f488cff7ae655dabe401032ab3ed48b.mp3",
+      "name": "Mid_te_Görüşürüz.mp3"
+    },
+    "volume": 65
   },
   {
     "title": "Serhan mı daha iyi cs oynuyor Lolik Ensar mı?",
