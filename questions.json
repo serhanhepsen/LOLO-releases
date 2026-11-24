@@ -5,6 +5,10 @@
       "Tabi ki!",
       "Kesinlikle öyle!"
     ],
+    "image": {
+      "file": "04ead93d3d67226562543f260fc8a20ee41352e961ead92caf19ea4e82483073.gif",
+      "name": "huh-hasbulla.gif"
+    },
     "sound": {
       "file": "37e3b29d2fd21db8dac2bfdfa3a16efe5f488cff7ae655dabe401032ab3ed48b.mp3",
       "name": "Mid_te_Görüşürüz.mp3"
@@ -16,6 +20,10 @@
     "choices": [
       "Lolik Ensar daha kötü!",
       "Serhan daha iyi!"
-    ]
+    ],
+    "image": {
+      "file": "b4bf9089dc6d6cb4c47d2fb7c91a5efd97108a3833519d80e5b7b10767c1f5ea.gif",
+      "name": "hasbu.gif"
+    }
   }
 ]
