@@ -1,16 +1,16 @@
 [
   {
-    "title": "En çok ne oynarsın?",
+    "title": "Ensar bir LOLİK midir ? :)",
     "choices": [
-      "Rekabetçi",
-      "Rahat"
+      "Tabi ki!",
+      "Kesinlikle öyle!"
     ]
   },
   {
-    "title": "Hangi saatlerde oynarsın?",
+    "title": "Serhan mı daha iyi cs oynuyor Lolik Ensar mı?",
     "choices": [
-      "Gündüz",
-      "Akşam"
+      "Lolik Ensar daha kötü!",
+      "Serhan daha iyi!"
     ]
   }
 ]
