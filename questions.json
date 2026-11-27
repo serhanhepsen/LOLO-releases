@@ -1,9 +1,9 @@
 [
   {
-    "title": "Ensar bir LOLİK midir ? :)",
+    "title": "Gay misiniz?",
     "choices": [
-      "Tabi ki!",
-      "Kesinlikle öyle!"
+      "Evet,Tabi ki!",
+      "Ali'nin arkadaşıyım!"
     ],
     "image": {
       "file": "04ead93d3d67226562543f260fc8a20ee41352e961ead92caf19ea4e82483073.gif",
@@ -16,14 +16,21 @@
     "volume": 65
   },
   {
-    "title": "Serhan mı daha iyi cs oynuyor Lolik Ensar mı?",
+    "title": "Gayler giremez hala girmek istiyormusunuz?",
     "choices": [
-      "Lolik Ensar daha kötü!",
-      "Serhan daha iyi!"
+      "Evet",
+      "Lütfen"
     ],
     "image": {
       "file": "b4bf9089dc6d6cb4c47d2fb7c91a5efd97108a3833519d80e5b7b10767c1f5ea.gif",
       "name": "hasbu.gif"
     }
+  },
+  {
+    "title": "Tamam tatlı bir gaye benziyorsunuz girin.",
+    "choices": [
+      "Teşekkürler",
+      "Çok teşekkürler"
+    ]
   }
 ]
